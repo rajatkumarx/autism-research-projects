@@ -32,6 +32,7 @@ The `random` category represents activities other than the specific behaviors li
 Sampling rates differ by sensor location.
 - Left wrist (`LW`): approximately 4 Hz
 - Right wrist (`RW`): approximately 26 Hz.
+
 Each recording lasts approximately 5 s. Consequently, the number of samples may differ between sensor locations. Verify the sampling rate and sample count from the CSV files before analysis.
 
 
