@@ -24,6 +24,7 @@ The current activity categories are:
 - Hand flapping (`hand`).
 - Mouthing (`mouth`).
 - Random activities (`random`).
+
 The `random` category represents activities other than the specific behaviors listed above. Researchers should describe the composition of this category when reporting results, since its variability may differ from that of the more targeted activity classes.
 
 
