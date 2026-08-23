@@ -11,7 +11,7 @@ This repository contains ZIP archives of CSV files with five-second time-series 
 ## Directory Naming Convention
 
 Directory names use abbreviations describing the subject group, sensor location, and activity.
-- Subject group: `S01` (Subject 01), `Sxx` (multiple subjects).
+- Subject group: `S01` (Subject 01), `SXX` (multiple subjects).
 - Sensor location: `RW` (right wrist), `LW` (left wrist).
 - Activity: one of the activity labels below (e.g., `arm`, `hair`, `hand`, `mouth`, `random`).
 
