@@ -5,7 +5,7 @@ A collection of autism-related research projects developed under the Social and 
 
 ## Dataset Overview
 
-This repository contains ZIP archives of CSV files with five-second time-series recordings of inertial measurement unit (IMU) pitch and roll signals collected from wrist-worn sensors during controlled activities. The data were not collected from autistic individuals. Instead, they were collected from individuals who mimicked or simulated selected autism-related behaviors for research and algorithm-development purposes. Therefore, this dataset should not be considered clinically representative of individuals with autism spectrum disorder (ASD), and results should not be generalized to autistic individuals without appropriate validation. Users are responsible for complying with all applicable ethical, privacy, data-protection, and institutional review/ethics board requirements when accessing and analyzing this dataset.
+This repository contains ZIP archives of CSV files with five-second time-series recordings of inertial measurement unit (IMU) pitch and roll signals collected from wrist-worn sensors during controlled activities. The data were not collected from autistic individuals. Instead, they were collected from individuals who mimicked or simulated selected autism-related behaviors for research and algorithm-development purposes. Therefore, this dataset should not be considered clinically representative of individuals with ASD, and results should not be generalized to autistic individuals without appropriate validation. Users are responsible for complying with all applicable ethical, privacy, data-protection, and institutional review/ethics board requirements when accessing and analyzing this dataset.
 
 
 ## Directory Naming Convention
