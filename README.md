@@ -27,6 +27,19 @@ The current activity categories are:
 
 The `random` category represents activities other than the specific behaviors listed above. Researchers should describe the composition of this category when reporting results, since its variability may differ from that of the more targeted activity classes.
 
+## File Counts by Directory
+
+The number of CSV files per directory is as follows:
+
+- `S01_LW`: 100 files for each of `arm`, `hand`, `hair`, `mouth`.
+- `S01_RW`: 100 files for each of `arm`, `hand`, `hair`, `mouth`.
+- `SXX_RW`: 200 files for each of `arm`, `hand`, `hair`, `mouth`.
+- `Random_LW`: 100 files in total.
+- `Random_RW`: 400 files in total.
+
+Note that the `random` directories aggregate multiple unspecified activities; their internal composition is not broken down by activity label.
+
+**Note on `SXX_RW`:** This directory contains data from 20 participants, equally distributed across the four activity labels (`arm`, `hand`, `hair`, `mouth`). One of these participants is the same individual as in `S01`.
 
 ## Sampling Rates
 
